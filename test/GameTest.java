@@ -34,5 +34,4 @@ public class GameTest extends TestCase {
 		rollMany(17, 0);
 		assertEquals(16, g.score());
 	}
-
 }
